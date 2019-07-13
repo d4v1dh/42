@@ -1,8 +1,0 @@
-Credentials cache: API:2E0D2274-E1DC-42AE-B94A-6CB00A4C297B
-        Principal: dabosse@42.FR
-
-  Issued                Expires               Principal
-Jun  4 07:22:21 2019  Jun 11 07:22:21 2019  krbtgt/42.FR@42.FR
-Jun  4 07:22:23 2019  Jun 11 07:22:21 2019  ldap/ldap-proxy.42.fr@42.FR
-Jun  4 07:22:23 2019  Jun 11 07:22:21 2019  HTTP/student-storage-1.42.fr@42.FR
-Jun  4 07:27:27 2019  Jun 11 07:22:21 2019  host/vgs-fn1.42.fr@42.FR
